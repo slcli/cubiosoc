@@ -1,64 +1,52 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://cubio.soc.srcf.net
+baseurl: /home/
 
 # Site settings
-title: Awesome Title
+title: Cambridge University Biological Society
 email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "The Cambridge University Biological Society (BioSoc) is a science society dedicated to bringing the finest speakers to Cambridge."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Lawrence Ng
   pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+  position: President
 
-- name: Larry Parker
+- name: Nausicaa Ng
   pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+  position: Vice-President
 
-- name: Diana Petersen
+- name: Peter Parker
   pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  position: Secretary
+
+- name: Cassandra Lui
+  pic: 1
+  position: Events Officer
+
+- name: Monica Simpson
+  pic: 2
+  position: Social Officer
+
+- name: Samuel Li
+  pic: 3
+  position: Webmaster
+
+- name: Tuna Akyol
+  pic: 1
+  position: Sponsorship Officer
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+  - title: instagram
+    url: https://instagram.com/biosoc.cam
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: The Old Schools, Trinity Lane
+  - line: Cambridge CB2 1TP
 
 # Build settings
 markdown: kramdown
