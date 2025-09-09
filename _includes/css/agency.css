@@ -632,23 +632,23 @@ section h3.section-subheading {
     }
 }
 
-.team-member {
+.comm-member {
     margin-bottom: 50px;
     text-align: center;
 }
 
-.team-member img {
+.comm-member img {
     margin: 0 auto;
     border: 7px solid #fff;
 }
 
-.team-member h4 {
+.comm-member h4 {
     margin-top: 25px;
     margin-bottom: 0;
     text-transform: none;
 }
 
-.team-member p {
+.comm-member p {
     margin-top: 0;
 }
 
