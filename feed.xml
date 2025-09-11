@@ -3,10 +3,10 @@
   <channel>
     <title>Cambridge University Biological Society</title>
     <description>The Cambridge University Biological Society (BioSoc) is a science society dedicated to bringing the finest speakers to Cambridge.</description>
-    <link>http://localhost:4000/home//</link>
-    <atom:link href="http://localhost:4000/home//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 09 Sep 2025 21:38:40 +0800</pubDate>
-    <lastBuildDate>Tue, 09 Sep 2025 21:38:40 +0800</lastBuildDate>
+    <link>https://cubio.soc.srcf.net/</link>
+    <atom:link href="https://cubio.soc.srcf.net/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 11 Sep 2025 21:54:08 +0800</pubDate>
+    <lastBuildDate>Thu, 11 Sep 2025 21:54:08 +0800</lastBuildDate>
     <generator>Jekyll v4.4.1</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>
 </description>
         <pubDate>Wed, 08 Oct 2025 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/home//2025/10/08/freshers/</link>
-        <guid isPermaLink="true">http://localhost:4000/home//2025/10/08/freshers/</guid>
+        <link>https://cubio.soc.srcf.net/2025/10/08/freshers/</link>
+        <guid isPermaLink="true">https://cubio.soc.srcf.net/2025/10/08/freshers/</guid>
         
         
       </item>
@@ -25,8 +25,8 @@
         <description>
 </description>
         <pubDate>Mon, 23 Jun 2025 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/home//2025/06/23/gardenparty/</link>
-        <guid isPermaLink="true">http://localhost:4000/home//2025/06/23/gardenparty/</guid>
+        <link>https://cubio.soc.srcf.net/2025/06/23/gardenparty/</link>
+        <guid isPermaLink="true">https://cubio.soc.srcf.net/2025/06/23/gardenparty/</guid>
         
         
       </item>
