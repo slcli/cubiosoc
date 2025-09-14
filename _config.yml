@@ -3,7 +3,7 @@ baseurl:
 
 # Site settings
 title: Cambridge University Biological Society
-email: your-email@domain.com
+email: cubiosociety@gmail.com
 description: "The Cambridge University Biological Society (BioSoc) is a science society dedicated to bringing the finest speakers to Cambridge."
 collections:
   - sponsors
@@ -18,7 +18,7 @@ people:
   college: St John's
 
 - name: Nausicaa Ng
-  pic: 1.jpg
+  pic: Nausicaa.jpg
   position: Vice-President
   year: 3rd
   subject: Natural Sciences (Biological)
@@ -53,21 +53,21 @@ people:
   college: Selwyn
 
 - name: Monica Simpson
-  pic: 2.jpg
+  pic: Monica.jpg
   position: Social Officer
   year: 3rd
   subject: Natural Sciences (Biological)
   college: Selwyn
 
 - name: Samuel Li
-  pic: 3.jpg
+  pic: Samuel.jpg
   position: Webmaster
   year: 2nd
   subject: Natural Sciences (Biological)
   college: St John's
 
 - name: Tuna Akyol
-  pic: 1.jpg
+  pic: Tuna.jpg
   position: Sponsorship Officer
   year: 2nd
   subject: Natural Sciences (Biological)

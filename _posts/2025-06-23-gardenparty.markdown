@@ -1,7 +1,7 @@
 ---
 title: Joint Garden Party
 layout: default
-modal-id: 1
+modal-id: 2
 dat: 23/6/2025
 date-long: 23rd June 2025 1-5pm
 loc: Clare College
