@@ -10,5 +10,5 @@ description: Join us at the 2025 Freshers' Fair to meet the committee, secure yo
 img: su.png
 thumbnail: su.png
 alt: image-alt
-
+attr:
 ---

@@ -1,0 +1,14 @@
+---
+title: Freshers' Squash & Games
+layout: default
+modal-id: 4
+dat: mid October
+date-long: mid October Saturday
+loc: TBC
+loc-long: TBC
+description: Enjoy free pizza, meet your fellow freshers, and have fun with some games!
+img: siteicon.png
+thumbnail: siteicon.png
+alt: image-alt
+attr:
+---

@@ -10,5 +10,5 @@ description: SciSoc, CUPS, BioSoc, CUAS and CUWPS are back with our annual STEM 
 img: 2025_gardenparty.jpg
 thumbnail: 2025_gardenparty.jpg
 alt: image-alt
-
+attr:
 ---
